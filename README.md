@@ -51,7 +51,3 @@ The Power BI dashboard is included as a `.pbix` file. GitHub may not preview `.p
 - [Dashboard page 2](reports/powerbi_dashboard_page_2.pdf)
 - [Dashboard page 3](reports/powerbi_dashboard_page_3.pdf)
 - [Dashboard page 4](reports/powerbi_dashboard_page_4.pdf)
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs, course-submission wording, and unnecessary group-submission details have been removed where possible.
