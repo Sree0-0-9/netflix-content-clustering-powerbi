@@ -62,7 +62,3 @@ The Power BI dashboard is included as a `.pbix` file. GitHub may not preview `.p
 ### Trend Analysis
 
 ![Power BI dashboard page 4](reports/powerbi_dashboard_page_4.png)
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic analytics work. Student IDs, course-submission wording, and unnecessary group-submission details have been removed where possible.
