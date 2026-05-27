@@ -49,16 +49,16 @@ The Power BI dashboard is included as a `.pbix` file. GitHub may not preview `.p
 
 ### Overview
 
-![Power BI dashboard page 1](reports/powerbi_dashboard_page_1.png)
+![Power BI dashboard page 1](powerbi_dashboard_page_1.png)
 
 ### Ratings
 
-![Power BI dashboard page 2](reports/powerbi_dashboard_page_2.png)
+![Power BI dashboard page 2](powerbi_dashboard_page_2.png)
 
 ### Country Analysis
 
-![Power BI dashboard page 3](reports/powerbi_dashboard_page_3.png)
+![Power BI dashboard page 3](powerbi_dashboard_page_3.png)
 
 ### Trend Analysis
 
-![Power BI dashboard page 4](reports/powerbi_dashboard_page_4.png)
+![Power BI dashboard page 4](powerbi_dashboard_page_4.png)
